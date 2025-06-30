@@ -1,0 +1,3 @@
+model_path: "C:/Users/nisha/Desktop/credit_score_system/models/credit_model.pkl"
+scaler_path: "C:/Users/nisha/Desktop/credit_score_system/models/scaler.pkl"
+data_path: "C:/Users/nisha/Desktop/credit_score_system/data/raw/cs-training.csv"
